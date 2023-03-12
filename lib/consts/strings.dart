@@ -1,0 +1,17 @@
+const appname = "juztelectronics";
+const appversion = "Version 1.0.0";
+const credits = "@Ayan Khan";
+const email = "Email";
+const emailHint = "123@com";
+const password ="Password";
+const passwordHint="********";
+const retypepassword ="Retype Password";
+const name ="Name";
+const nameHint="Ayan Khan";
+const forgetPass="Forget Password";
+const login = "Log in";
+const signup = "Sign up";
+const createNewAccount = "or, create a new account";
+const loginWith = "Log in with";
+const privacyPolicy = "Privacy Policy";
+const termAndCond = "Terms and Conditions";
