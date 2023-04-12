@@ -3,7 +3,6 @@ description: Electronics e-commerce Application
 # The following line prevents the package from being accidentally published to
 # pub.dev using `flutter pub publish`. This is preferred for private packages.
 publish_to: 'none' # Remove this line if you wish to publish to pub.dev
-
 # The following defines the version and build number for your application.
 # A version number is three numbers separated by dots, like 1.2.43
 # followed by an optional build number separated by a +.
@@ -32,11 +31,18 @@ dependencies:
     sdk: flutter
 
 
+
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^1.0.2
   velocity_x: ^3.5.1
   get: ^4.6.5
+  firebase_core: ^2.7.1
+  firebase_auth: ^4.2.10
+  firebase_storage: ^11.0.15
+  cloud_firestore: ^4.4.4
+  image_picker: ^0.8.7
+
 
 dev_dependencies:
   flutter_test:
@@ -48,6 +54,13 @@ dev_dependencies:
   # package. See that file for information about deactivating specific lint
   # rules and activating additional ones.
   flutter_lints: ^2.0.0
+  flutter_launcher_icons: "^0.12.0"
+  flutter_native_splash: ^2.2.19
+flutter_icons:
+  android: "launcher_icon"
+  ios: true
+  image_path: "assets/icons/app_logo.png"
+  min_sdk_android: 21 # android min sdk min:16, default 21
 
 # For information on the generic Dart part of this file, see the
 # following page: https://dart.dev/tools/pub/pubspec
@@ -65,6 +78,7 @@ flutter:
   - assets/
   - assets/images/
   - assets/icons/
+  - lib/services/category_model.json
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware
 

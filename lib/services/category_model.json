@@ -1,0 +1,76 @@
+{
+  "categories": [
+    {
+      "name": "Laptops",
+      "subcategory": [
+        "Gaming",
+        "Work",
+        "Balanced"
+      ]
+    },
+    {
+      "name": "Smartphones",
+      "subcategory": [
+        "Android",
+        "iOS",
+        "Gaming"
+      ]
+    },
+    {
+      "name": "Smart Watches",
+      "subcategory": [
+        "Apple",
+        "Samsung",
+        "Boat"
+      ]
+    },
+    {
+      "name": "Refigerators",
+      "subcategory": [
+        "Single Door",
+        "Double Door",
+        "Deep Freezers"
+
+      ]
+    },
+    {
+      "name": "Air Conditioners",
+      "subcategory": [
+        "Split AC",
+        "Window AC",
+        "Portable AC"
+      ]
+    },
+    {
+      "name": "Television",
+      "subcategory": [
+        "HD Ready",
+        "Full HD",
+        "4K"
+      ]
+    },
+    {
+      "name": "Computer",
+      "subcategory": [
+        "Gaming",
+        "Work",
+        "Accessories"
+      ]
+    },
+    {
+      "name": "Microwave",
+      "subcategory": [
+        "Oven",
+        "Grill",
+        "Convection"
+      ]
+    },
+    {
+      "name": "Washing Machine",
+      "subcategory": [
+        "Automatic",
+        "Semi Automatic"
+      ]
+    }
+  ]
+}

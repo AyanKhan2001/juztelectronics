@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "824084122742",
+    "project_id": "juztelectronics",
+    "storage_bucket": "juztelectronics.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:824084122742:android:55e1b572cf79eb8ff0e357",
+        "android_client_info": {
+          "package_name": "com.example.juztelectronics"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "824084122742-pqlkku8alqofci0rog1lcri8acrs22i5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.juztelectronics",
+            "certificate_hash": "80db6048c28d47a1996a9f9f4538c275e8f8be93"
+          }
+        },
+        {
+          "client_id": "824084122742-37asrlkftljdicd3ht7f17kds8ijo4l0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIcdRH4ggB1GSe0Lyfvjm18VcMGYF8mVM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "824084122742-37asrlkftljdicd3ht7f17kds8ijo4l0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
